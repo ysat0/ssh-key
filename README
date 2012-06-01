@@ -1,0 +1,4 @@
+This script is SSH public key registering form.
+
+Important notice
+* This script insecure. Need strong security setting for WEB servers.
